@@ -24,8 +24,8 @@ public class GenericsExample {
         catPrinter.print();
 
         shout("John");
-        shout("25");
-        shout("33.5");
+        shout(25);
+        shout(33.5);
     }
 
     //Generic Methode für alle Typen
