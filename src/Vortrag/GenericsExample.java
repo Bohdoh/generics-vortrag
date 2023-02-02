@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class GenericsExample {
     public static void main(String[] args) {
 
-        //int ist der Typ. Durch das Deklarieren wird die Variable i als Integer Typitisiert. In Java ist
+        //int ist der Typ. Durch das Deklarieren wird die Variable i als Integer typisiert. In Java ist
         //die Typisierung statisch, eine Variable kann ihren Typ nicht ändern.
         int i;
 
